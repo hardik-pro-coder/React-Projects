@@ -1,0 +1,37 @@
+/* Management CSS */
+
+.management {
+    padding-left: 20%;
+    padding-right: 20%;
+    margin-top: 4%;
+}
+
+.labor-management {
+    display: flex;
+    margin-bottom: 3%;
+    gap: 30px;
+}
+
+.labor-management-text h2 {
+    font-size: 34px;
+    text-transform: capitalize;
+    font-weight: 300;
+    font-family: Roboto;
+    line-height: 35px;
+    letter-spacing: -.7px;
+    color: #3e3e58;
+}
+
+.labor-management-text p {
+    padding-top: 40px;
+    text-align: left;
+    line-height: 2rem;
+    color: #404040;
+    font-weight: 300;
+    font-size: 21px;
+}
+
+.labor-management-img img {
+    margin-top: 16px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, .5);
+}

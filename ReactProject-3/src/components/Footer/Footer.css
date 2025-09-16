@@ -1,0 +1,119 @@
+/* Footer CSS */
+
+.footer {
+    display: flex;
+    align-items: flex-start;
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+
+/* ----- */
+
+.footer-icon {
+    width: 25%;
+}
+
+.footer-icon i {
+    color: rgb(158, 158, 158);
+    font-size: 1.9rem;
+    padding: 2px;
+}
+
+.footer-icon-text {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+.footer-icon-text p {
+    font-size: 14px;
+    font-weight: 600;
+    color: #9e9e9e;
+}
+
+.footer-icon-text a {
+    font-size: 15px;
+    font-weight: 400;
+    color: #0073aa;
+}
+
+.footer-icon-text i {
+    color: #0073aa;
+    font-size: 17px;
+}
+
+/* ----- */
+
+.footer-links {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 25%;
+}
+
+.footer-links p {
+    font-size: 14px;
+    font-weight: 600;
+    color: #9b9b9b;
+}
+
+/* ----- */
+
+.footer-blog {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 25%;
+}
+
+.footer-blog p {
+    font-size: 14px;
+    font-weight: 600;
+    color: #9b9b9b;
+}
+
+/* ----- */
+
+.footer-portal {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    width: 25%;
+}
+
+.footer-portal p {
+    color: #565656;
+    font-weight: 600;
+}
+
+.footer-img img {
+    width: 100%;
+}
+
+/* ----- */
+
+.terms {
+    display: flex;
+}
+
+.para {
+    font-size: 14px;
+    font-weight: 300;
+    color: #9b9b9b;
+    text-align: left;
+    margin-left: 9%;
+    margin-bottom: 2%;
+}
+
+/* ----- */
+
+.mungo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    cursor: pointer;
+    border-radius: 50%;
+    padding: 2px;
+}
